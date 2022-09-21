@@ -8,5 +8,3 @@
     <img src="https://raw.githubusercontent.com/rvye/stats/master/generated/overview.svg#gh-dark-mode-only" alt="stats" />
   </a>
 </p>
-
-d
